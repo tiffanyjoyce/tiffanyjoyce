@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tiffanyjoyce AKA Tiffany Bissonnette
-- 👀 I’m interested in Front-end Web Dev
-- 🌱 I’m currently learning React
+- 👀 I’m interested in Full Stack Web Dev
+- 🌱 I’m currently learning more custom CSS!
 - 📫 Contact me on linkedin @ Tiffany Bissonnette
 
 <!---
